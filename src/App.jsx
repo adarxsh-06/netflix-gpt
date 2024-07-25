@@ -1,10 +1,9 @@
+import Body from "./components/Body"
 
-function App() {
+const App=()=> {
   
   return (
-    <div className="text-3xl">
-       HEllo EveryOne
-    </div>
+    <Body/>
   )
 }
 
