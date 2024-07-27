@@ -2,5 +2,10 @@
 - Vite
 - TailwindCss
 - Header
+- Routing set up
 - Login Form
 - Sign Form
+- Form Validation=>useRef Hook
+- FireBAse setup
+- App Deployment
+- Sign up user account
