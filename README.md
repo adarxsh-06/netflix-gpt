@@ -14,4 +14,12 @@
 - onAuthStateChange API
 - Sign Out feature
 - updateProfile
+- Browse Page Building
+- TMDB && Get data of movies
+- Custom Hook for now playing movies
+- Create movieSlice 
+- Primary & Sec Container
+- Taier video data fetch and add it to store
+-  Youtube video embed with autoplay and mute
+
 
