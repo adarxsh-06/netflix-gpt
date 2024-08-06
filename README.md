@@ -21,5 +21,11 @@
 - Primary & Sec Container
 - Taier video data fetch and add it to store
 -  Youtube video embed with autoplay and mute
+- Primary Container css
+- Sec Container build 
+- Movie List && Movie Card Component
+- Browse Page css
+- usePopularMovies Hook
+
 
 
