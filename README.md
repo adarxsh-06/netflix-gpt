@@ -26,6 +26,8 @@
 - Movie List && Movie Card Component
 - Browse Page css
 - usePopularMovies Hook
+- GPT SeachPage && SearchBAr
+- Multi Lang Feature
 
 
 
